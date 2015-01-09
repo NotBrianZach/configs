@@ -1,4 +1,6 @@
-#this file usually goes in your home directory, and is only executed upon login, for new shells use .bashrc, except on mac...
+#this file usually goes in your home directory, and is only executed upon login, 
+#for new shells use .bashrc, except on mac, where 
+#it's .bash_profile in your ~ directory
 if [ -f ~/.bashrc ]; then
    source ~/.bashrc
 fi
