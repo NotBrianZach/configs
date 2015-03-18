@@ -11,3 +11,5 @@ alias cs='ssh zach1@temperance.cs.utexas.edu'
 alias cd2='../..'
 
 alias disku='du -sch *'
+alias h='history'
+alias l='ls -l'
