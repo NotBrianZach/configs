@@ -7,3 +7,7 @@ fi
 alias stampede='ssh brianz@login.xsede.org'
 alias amazon='ssh -i ~/.ssh/RHELAWSFIRST.pem ec2-user@54.148.102.210'
 alias cs='ssh zach1@temperance.cs.utexas.edu'
+
+alias cd2='../..'
+
+alias disku='du -sch *'
