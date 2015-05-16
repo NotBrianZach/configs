@@ -1,4 +1,4 @@
-//colorscheme solarized
+"colorscheme solarizeds
 syntax enable
 set tabstop=4 "number of visual spaces per tab
 set softtabstop=4 "number of spaces in tab when editing
