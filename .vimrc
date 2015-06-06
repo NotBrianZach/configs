@@ -18,7 +18,7 @@ set foldenable "enable folding
 set foldlevelstart=10 " open most folds by default
 set foldnestmax=10 "10 nested fold max
 "space open/closes folds
-"nnoremap <space> za
+nnoremap <space> za
 set foldmethod=indent "fold based on indent level, other options:
 "marker, manual, expr, syntax, diff, :help foldmethod
 "highlight last inserted text
