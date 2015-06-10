@@ -11,6 +11,8 @@ set history=1000
 
 
 "------  Visual Options  ------
+set colorcolumn=110
+highlight ColorColumn ctermbg=darkgray
 syntax on
 set number
 set nowrap
